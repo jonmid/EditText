@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EditText</string>
+    <string name="tiet_name_user">Username</string>
+    <string name="tiet_password">Password</string>
+    <string name="btn_log_in">Log in</string>
+    <string name="tv_subtitle">¿You do not have an account?,</string>
+    <string name="tv_subtitle_link">create one here.</string>
+</resources>
